@@ -5,8 +5,8 @@
 #0.0.0.0 discordapp.net
 
 #[Roblox]
-0.0.0.0 (\.|^)rbxcdn.com$
-0.0.0.0	(\.|^)roblox.com$
+0.0.0.0 ||rbxcdn.com^
+0.0.0.0	||roblox.com^
 
 #[stalcraft]
 #0.0.0.0 stalcraft.net
